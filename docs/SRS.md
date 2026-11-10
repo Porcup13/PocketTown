@@ -195,6 +195,8 @@ Mỗi yêu cầu có mã `FR-xx`, ưu tiên (M/S/C), và màn hình Figma tươn
 
 ## 4. Đặc tả ca sử dụng chính
 
+> **Bản đặc tả đầy đủ:** 15 use case theo mẫu 13 trường (Wiegers/IIBA), có luồng chính, luồng thay thế, ngoại lệ và bảng chấm 20 tiêu chí, nằm ở [use-cases/README.md](use-cases/README.md) (tiếng Anh). Phần dưới đây là tóm tắt các ca chính.
+
 ### 4.1 Sơ đồ ca sử dụng
 ```mermaid
 flowchart LR
