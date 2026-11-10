@@ -10,7 +10,7 @@ Mỗi lần ghi một khoản chi, nhân vật của bạn chạy tới khu tư�
 |---|---|
 | 📄 Tài liệu yêu cầu nghiệp vụ | [BRD](docs/BRD.md) |
 | 📐 Đặc tả yêu cầu phần mềm | [SRS](docs/SRS.md) |
-| 🎨 Thiết kế UI/UX + prototype | [Figma: 51 màn hình, bấm thử được mọi nút](https://www.figma.com/design/DzLoLblVhyGTE3Xntfhcvo) |
+| 🎨 Thiết kế UI/UX + prototype | [Figma](https://www.figma.com/design/DzLoLblVhyGTE3Xntfhcvo) |
 | 📱 Nền tảng | iOS (Expo / React Native), đã chạy trên iPhone thật |
 
 ---
@@ -68,13 +68,3 @@ flowchart LR
 **[BRD](docs/BRD.md)**: bối cảnh và vấn đề, mục tiêu kinh doanh kèm KPI, các bên liên quan, persona, phạm vi, sơ đồ quy trình hiện tại và quy trình mới, 14 yêu cầu nghiệp vụ (MoSCoW), 12 quy tắc nghiệp vụ, rủi ro, tiêu chí thành công, lộ trình, nhật ký quyết định.
 
 **[SRS](docs/SRS.md)**: 55 yêu cầu chức năng gắn với màn hình Figma, đặc tả ca sử dụng (luồng chính, thay thế, ngoại lệ), sơ đồ ca sử dụng, sơ đồ tuần tự, sơ đồ trạng thái, mô hình dữ liệu (ERD), 15 yêu cầu phi chức năng có cách đo, ma trận truy vết BRD → SRS → Figma, tiêu chí nghiệm thu dạng Given/When/Then.
-
-## Lộ trình
-
-- [x] Thị trấn 3D chạy 60 fps trên iPhone
-- [x] Ghi chi tiêu bằng QR và ảnh
-- [x] Xu, nâng cấp, xe, vườn cây
-- [x] Báo cáo, tiền nhận vào, sao lưu
-- [x] Figma đầy đủ luồng, BRD, SRS
-- [ ] Phát hành TestFlight, thử với 10 người dùng
-- [ ] Ngân sách tháng, quần áo thú cưng, Android
